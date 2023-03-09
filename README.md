@@ -18,7 +18,7 @@
 </p>
 
 #### 📊 Моя статистика:
-![Codewarrior Profile Badges](https://www.codewars.com/users/Lexev97/badges/large)
+[Codewarrior Profile Badges](https://www.codewars.com/users/Lexev97/badges/large)
 
 
 <div>
