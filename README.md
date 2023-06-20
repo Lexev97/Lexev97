@@ -8,7 +8,7 @@
 #### 🛠 Мой стек:
 <p>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" alt="JavaScript" height="30">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="TypeScript" height="30"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" height="30"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="30">
 <img src="https://user-images.githubusercontent.com/106261037/221433900-ee0cda9c-d438-40d5-913e-5ba097d516be.png" alt="Redux" height="30">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="Vue" height="30">
