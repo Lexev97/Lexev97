@@ -17,6 +17,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Saas" height="30">
 <img src="https://user-images.githubusercontent.com/106261037/221434020-b00317b7-ac0c-4f87-8266-3473be929aa0.png" alt="git" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30">
+<img src="https://cdn.icon-icons.com/icons2/3207/PNG/512/node_icon_196185.png" alt="Node.js" height="30">
+<img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/express_logo_icon_248911.png" alt="Express" height="30">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="30">
 </p>
 
 #### 📊 Моя статистика:
