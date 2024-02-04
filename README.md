@@ -1,4 +1,4 @@
-### Hi, my name is Alexei! 👋
+### Hi, my name is Aleksei! 👋
 
 #### 🛠 My stack:
 <p>
