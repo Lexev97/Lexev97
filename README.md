@@ -1,4 +1,4 @@
-### Hello everyone, my name is Alex! 👋
+### Hi, my name is Alex! 👋
 
 
 #### 🛠 My stack:
