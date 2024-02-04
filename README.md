@@ -1,7 +1,7 @@
 ### Hello everyone, my name is Alex! 👋
 
 
-#### 🛠 Мой стек:
+#### 🛠 My stack:
 <p>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" alt="JavaScript" height="30">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" height="30"> 
@@ -18,7 +18,7 @@
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" alt="MongoDB" height="30">
 </p>
 
-#### 📊 Моя статистика:
+#### 📊 My statistics:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Lexev97/badges/large)](https://www.codewars.com/users/Lexev97)
 
 
