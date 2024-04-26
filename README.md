@@ -18,8 +18,6 @@
 </p>
 
 #### 📊 My statistics:
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Lexev97/badges/large)](https://www.codewars.com/users/Lexev97)
-
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Lexev97&hide=contribs&show_icons=true">
